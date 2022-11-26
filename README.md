@@ -29,7 +29,7 @@ All these models are trained on the dataset and evaluation of the model is done 
 
 ## End Results
 
-From the obtained results of the above models, XGBoost Classifier has highest model performance of 92.3%. So the model is saved to the file [XGBoostClassifier.pickle.dat](https://github.com/IBM-EPBL/IBM-Project-14297-1659548839/blob/main/final%20deliverables/preprocessing%20%26%20model%20building/XGBoostClassifier.pickle.dat).
+From the obtained results of the above models, XGBoost Classifier has highest model performance of 90.2%. So the model is saved to the file [XGBoostClassifier.pickle.dat](https://github.com/IBM-EPBL/IBM-Project-14297-1659548839/blob/main/final%20deliverables/preprocessing%20%26%20model%20building/XGBoostClassifier.pickle.dat).
 
 ## Demo Video:
 
@@ -37,25 +37,13 @@ From the obtained results of the above models, XGBoost Classifier has highest mo
 
 ## Team Members
 
-- [@Shekinah](https://github.com/sheki018) (Team Lead)
-- [@Akshaya](https://github.com/Akxshaya)
-- [@Amala](https://github.com/Amala-29)
-- [@Annie](https://github.com/ANNIEMARLENENIKITA)
-
-Team ID: PNT2022TMID27489
-
-### Team members
-* Sanjeev Karthick K 
+ Sanjeev Karthick K 
 
 * Sai Nandhan P
 
 * Muhammed Rameez M
 
 * Yashwanth BT
-
-
-
-
 
 ### WEBSITE OUTPUT SAMPLE 
 ![WEB PHISHING SAMPLE SITE](https://user-images.githubusercontent.com/62670994/204072600-bae0d8f4-c1b3-4667-b2f1-56e0fc572f12.png)
