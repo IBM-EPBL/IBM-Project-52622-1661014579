@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h3 align="center"> Category: Applied Data Science and Machine Learning, Team ID : PNT2022TMID52622</h3>
+  <h2 align="center">  Team ID : PNT2022TMID52622</h2>
 
 </p>
   <img align="center" alt="phishing" src="https://user-images.githubusercontent.com/62670994/204077078-3fcbe247-223f-427b-946f-577ac49e638d.png">
