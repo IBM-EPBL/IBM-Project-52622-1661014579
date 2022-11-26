@@ -2,7 +2,7 @@
 ## Web Phishing Detection
 
 ### Team members
-Sanjeev Karthick K
+Sanjeev Karthick K \n
 Sai Nandhan P
 Muhammed Rameez M
 Yashwanth BT
