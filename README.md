@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Web Phishing Detection ( IBM-Project-52622-1661014579 ) </h1>
+  <h1 align="center"><b>Web Phishing Detection (IBM-Project-52622-1661014579) </h1>
 </p>
 
 <p>
@@ -43,7 +43,7 @@ XGBoost Classifier has highest model performance of 90.2%. So the model is saved
 
 ## Demo Video:
 
-[Web Phishing Detection](https://drive.google.com/drive/folders/1HwRFoYKWZ0sMZMM33wmChhGsmlhcxixY?usp=sharing)
+## [Web Phishing Detection](https://drive.google.com/drive/folders/1HwRFoYKWZ0sMZMM33wmChhGsmlhcxixY?usp=sharing)
 
 ## Team Members
 * Sanjeev Karthick K 
