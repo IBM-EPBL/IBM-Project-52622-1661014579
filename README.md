@@ -5,7 +5,7 @@
 <p>
   <h2 align="center"> Category: Applied Data Science and Machine Learning</h2>
 </p>
-<img width="600" alt="phishing" src="https://user-images.githubusercontent.com/62670994/204077078-3fcbe247-223f-427b-946f-577ac49e638d.png">
+<img align="center width="600" alt="phishing" src="https://user-images.githubusercontent.com/62670994/204077078-3fcbe247-223f-427b-946f-577ac49e638d.png">
 
 ## Objective
 
