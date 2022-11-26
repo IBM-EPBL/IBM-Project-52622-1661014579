@@ -15,7 +15,7 @@ A phishing website is a common social engineering method that mimics trustful un
 
 ## Data Collection and Analysis
 
-The given [data](https://github.com/IBM-EPBL/IBM-Project-14297-1659548839/blob/main/final%20deliverables/data/dataset_website.csv) contains both phishing and benign URLs of websites with various website content-based features. 
+The given dataset dataset_website.csv contains both phishing and benign URLs of websites with various website content-based features. 
 
 The above mentioned dataset is uploaded to the 'final deliverables/data' folder of this repository.
 
@@ -26,7 +26,7 @@ From data distribution graph and correlation matrix, we can conclude that the 16
 
 ## Models & Training
 
-Before stating the ML model training, the data is split into 80-20 i.e., 8844 training samples & 2211 testing samples. From the dataset, it is clear that this is a supervised machine learning task. There are two major types of supervised machine learning problems, called classification and regression.
+Before stating the ML model training, the data is split into 80-20 i.e., 8844 training samples & 2211 testing samples. From the dataset, it is clear that this is a supervised machine learning task.
 
 This data set comes under classification problem, as the input URL is classified as phishing (1) or legitimate (0). The supervised machine learning models (classification) considered to train the dataset in this project are:
 
@@ -35,11 +35,11 @@ This data set comes under classification problem, as the input URL is classified
 - XGBoost
 - Support Vector Machines
 
-All these models are trained on the dataset and evaluation of the model is done with the test dataset. The elaborate details of the models & its training are mentioned in [Phishing_Website_Detection.ipynb](https://github.com/IBM-EPBL/IBM-Project-14297-1659548839/blob/main/final%20deliverables/preprocessing%20%26%20model%20building/Phishing_Website_Detection.ipynb).
+The elaborate details of the models & its training are mentioned in Phishing_Website_Detection.ipynb
 
 ## End Results
 
-From the obtained results of the above models, XGBoost Classifier has highest model performance of 90.2%. So the model is saved to the file [XGBoostClassifier.pickle.dat](https://github.com/IBM-EPBL/IBM-Project-14297-1659548839/blob/main/final%20deliverables/preprocessing%20%26%20model%20building/XGBoostClassifier.pickle.dat).
+From the obtained results of the above models, XGBoost Classifier has highest model performance of 90.2%. So the model is saved to the file XGBoostClassifier.pickle.dat
 
 ## Demo Video:
 
