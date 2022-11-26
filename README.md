@@ -2,10 +2,17 @@
 ## Web Phishing Detection
 
 ### Team members
-Sanjeev Karthick K 
-Sai Nandhan P
-Muhammed Rameez M
-Yashwanth BT
+* Sanjeev Karthick K 
+
+* Sai Nandhan P
+
+* Muhammed Rameez M
+
+* Yashwanth BT
+
+
+
+
 
 ### WEBSITE OUTPUT SAMPLE 
 ![WEB PHISHING SAMPLE SITE](https://user-images.githubusercontent.com/62670994/204072600-bae0d8f4-c1b3-4667-b2f1-56e0fc572f12.png)
