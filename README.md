@@ -1,4 +1,11 @@
-# IBM-Project-52622-1661014579
+<p>
+  <h1 align="center"><b>Web Phishing Detection </h1>
+</p>
+
+<p>
+  <h2 align="center"> Category: Applied Data Science</h2>
+</p>
+
 ## Objective
 
 A phishing website is a common social engineering method that mimics trustful uniform resource locators (URLs) and webpages. The objective of this project is to train machine learning models on the dataset given to predict phishing websites. Both phishing and benign URLs of websites are gathered to form a dataset and from them required URL and website content-based features are extracted. The performance level of each model is measured and compared.
