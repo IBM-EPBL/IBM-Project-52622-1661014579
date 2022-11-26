@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h2 align="center"> Category: Applied Data Science and Machine Learning</h2>
+  <h2 align="center"> Category: Applied Data Science and Machine Learning, Team ID : PNT2022TMID52622</h2>
 
 </p>
   <img align="center" alt="phishing" src="https://user-images.githubusercontent.com/62670994/204077078-3fcbe247-223f-427b-946f-577ac49e638d.png">
@@ -45,7 +45,7 @@ XGBoost Classifier has highest model performance of 90.2%. So the model is saved
 
 # [Web Phishing Detection (VIDEO LINK)](https://drive.google.com/drive/folders/1HwRFoYKWZ0sMZMM33wmChhGsmlhcxixY?usp=sharing)
 
-## Team Members
+## Team Members (Team ID : PNT2022TMID52622)
 * Sanjeev Karthick K 
 
 * Sai Nandhan P
