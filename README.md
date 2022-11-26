@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Web Phishing Detection - IBM-Project-52622-1661014579 </h1>
+  <h1 align="center"><b>Web Phishing Detection ( IBM-Project-52622-1661014579 ) </h1>
 </p>
 
 <p>
