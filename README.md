@@ -39,7 +39,7 @@ The elaborate details of the models & its training are mentioned in Phishing_Web
 
 ## End Results
 
-XGBoost Classifier has highest model performance of 90.2%. So the model is saved to the file XGBoostClassifier.pickle.dat
+XGBoost Classifier has highest model performance of 90.2%. So the model is saved to the file XGBoostClassifier.pickle.dat and is used as our primary prediction model by deploying it in IBM WATSON STUDIO
 
 ## Demo Video:
 
