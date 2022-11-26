@@ -3,8 +3,9 @@
 </p>
 
 <p>
-  <h2 align="center"> Category: Applied Data Science</h2>
+  <h2 align="center"> Category: Applied Data Science and Machine Learning</h2>
 </p>
+<img width="600" alt="phishing" src="https://user-images.githubusercontent.com/62670994/204077078-3fcbe247-223f-427b-946f-577ac49e638d.png">
 
 ## Objective
 
@@ -40,7 +41,7 @@ From the obtained results of the above models, XGBoost Classifier has highest mo
 
 ## Demo Video:
 
-[HookPhish](https://www.youtube.com/watch?v=JJzPQuECNWg)
+[Web Phishing Detection](https://drive.google.com/drive/folders/1HwRFoYKWZ0sMZMM33wmChhGsmlhcxixY?usp=sharing)
 
 ## Team Members
 
